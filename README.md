@@ -1,4 +1,4 @@
-# Documnetação-basica-para-o-uso-da-api-GPS-TRACK-
+# Documentação-basica-para-o-uso-da-api-GPS-TRACK-
 
 # smartGPS Tracking Software API
 
